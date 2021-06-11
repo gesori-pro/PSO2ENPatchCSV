@@ -44,7 +44,7 @@ ErrorIgnoreQuest#0,"""이 퀘스트는 현재 수주가 불가능합니다. 자�
 BlockType_01#0,"""PSO2 블록"""
 BlockType_02#0,"""PSO2:NGS 블록"""
 Hyphen#0,"""-"""
-All#0,"""すべて"""
+All#0,"""전체"""
 MainMenu_CharacterInfo#0,"""캐릭터 정보"""
 MainMenu_Palette#0,"""파레트 커스터마이즈"""
 MainMenu_Inventory#0,"""아이템 팩"""
