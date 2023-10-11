@@ -1,0 +1,7 @@
+TrialName#0,"""A Song of Ice and Snow"""
+TrialBeginMsg#0,"""Defeat enemies amidst the unusual weather!"""
+TrialAbstract#0,"""Defeat enemies"""
+NpcComOnForetaste#0,"""/voice11_voice_navi004_trial_0001_012 Picking up the signal of a powerful enemy! The weather around it seems to be quite unstable, so please be careful."""
+NpcComOnSuccess#0,"""/voice11_voice_navi004_trial_0001_069 Enemy neutralization confirmed! Thank you very much."""
+NpcComOnFailure#0,"""/voice11_voice_navi004_trial_0001_074 Oh dear... The enemy has withdrawn. To make up for it, let's focus on a different objective instead."""
+NpcComOnBegin#0,"""/voice11_voice_navi004_trial_0001_019 There are Blast Charge Signs floating around the wind columns. Collect them to turn the tides of battle in your favor!"""
