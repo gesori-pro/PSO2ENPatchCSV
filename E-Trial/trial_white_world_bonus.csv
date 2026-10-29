@@ -1,5 +1,5 @@
 TrialName#0,"""광역 얼터 인자 활성화"""
-TrialBeginMsg#0,"""＊＊白色界ボーナストライアル"""
+TrialBeginMsg#0,"""＊＊白色界 ボーナストライアル"""
 TrialAbstract#0,"""얼터 인자 방출 에너미를 쓰러뜨리기"""
 TrialAbstractAelio#0,"""M.A.R.S.를 활용해<br>얼터 인자 방출 에너미를 쓰러뜨리기"""
 NpcComOnBegin#0,"""전역에서 얼터 인자 방출 에너미가 발생 중!<br>인자 농도를 낮출 수 있는 기회입니다!"""

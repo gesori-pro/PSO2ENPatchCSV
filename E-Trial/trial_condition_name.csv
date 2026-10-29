@@ -1,6 +1,6 @@
 PSEWTrial_PaTechniqueBuff#0,"""<yellow>PA/테크닉 위력 상승<c>"""
-PSEWTrial_ArsenalModuleDamageBuff#0,"""<yellow>M.A.R.S.공격력 상승/자연 회복량 증가<c>"""
-PSEWTrial_WeakPointDamageBuff#0,"""<yellow>약점 부위에 주는 위력 상승<c>"""
+PSEWTrial_ArsenalModuleDamageBuff#0,"""<yellow>M.A.R.S. 공격 위력 상승/자연 회복량 증가<c>"""
+PSEWTrial_WeakPointDamageBuff#0,"""<yellow>약점 부위 공격 위력 상승<c>"""
 PSEWTrial_OverRecoveryBuff#0,"""<yellow>레스타 사인 사용 후 10초간 능력 상승<c>"""
 PSEWTrial_GlideAttackBuff#0,"""<yellow>다이브 어택 위력 상승<c>"""
 PSEWTrial_PbGaugeBuff#0,"""<yellow>포톤 블래스트 게이지 축적량 증가<c>"""

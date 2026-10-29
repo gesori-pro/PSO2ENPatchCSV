@@ -8,7 +8,7 @@ Line_HelpEventManonAndAina#0,"""전투 지원(아이나＆마논)<br>이동 속�
 Line_HelpEventNadereh#0,"""전투 지원(나데레프)<br>적의 방어력 감소<br>달레트 작동 중지"""
 Line_HelpEventIlma#0,"""전투 지원(이루마)<br>공격 명중 시 추가 공격 발생"""
 Line_HelpEventGlen#0,"""전투 지원(그렌)<br>PP 자연 회복량 증가"""
-NpcComGod3ManonHelpEvent01#0,"""/voicemsc_020060_0370 어떻게든 조정이 늦지 않았네."""
+NpcComGod3ManonHelpEvent01#0,"""/voicemsc_020060_0370 어떻게든 제때 조정을 마쳤네."""
 NpcComGod3AinaHelpEvent01#0,"""/voicemsc_020060_0360 여긴 아이나.<br>이제부터 지원할게!"""
 NpcComGod3Nadereh01#0,"""/voicemsc_020060_0380 아무래도 내가 나설 차례인 것 같군."""
 NpcComGod3IlmaHelpEvent01#0,"""/voicemsc_020060_0390 좋아, 나도 엄호할게."""
